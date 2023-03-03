@@ -33,27 +33,3 @@ Si quieres hacer una modificación o agregar un nuevo archivo, ¡puedes hacerlo!
 Dirígete a la carpeta donde se encuentra el archivo Python: 
 
 - ```python demo.py```
-
-¡Tómale una captura, subela a tus redes sociales y etiquétanos para demostrar tus avances!
-
-## Recursos
-
-Información general de Mes de Datos: [Mes de Datos](https://aka.ms/MesDeDatos)
-
-Cloud Skills Challenge: [Reto Mes de Datos](https://aka.ms/RetoMesdeDatos)
-
-Presentación: [Introducción a Git y GitHub](./slides/GitGitHubMesdeDatos.pptx)
-
-
-## ¿Quieres seguir aprendiendo?
-
-[Learning Path Git](https://aka.ms/Mar1IntrotoGit2)
-
-[Learning Path GitHub](https://aka.ms/Mar1IntrotoGitHub2)
-
-
-### Síguenos
-
-Manuel Ortiz: [@manuosmx](https://instagram.com/manuosmx)
-
-Francisco Guzman: [@pacomgh](https://instagram.com/pacomgh)
